@@ -1,0 +1,7 @@
+configuration_file_path         = "config.yaml"
+default_location                = "westus2"
+default_postfix                 = "landing-zone"
+root_parent_management_group_id = ""
+subscription_id_connectivity    = "371d760c-091c-411e-8cda-a27de8b14a79"
+subscription_id_identity        = "046ed390-05df-4a43-97dc-797ed189698c"
+subscription_id_management      = "022b2a39-f745-4cb5-99c1-bf7e4e2d0344"
